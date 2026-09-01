@@ -1,0 +1,4 @@
+interface:
+  display_name: "Smart Commit"
+  short_description: "Analyze git changes and create logical commits"
+  default_prompt: "Analyze git changes, propose logical commit splits and messages, ask for confirmation, then commit."
